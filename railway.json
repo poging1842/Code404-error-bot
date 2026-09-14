@@ -1,0 +1,6 @@
+{
+  "$schema": "https://railpack.com/config.json",
+  "deploy": {
+    "startCommand": "python bot1.py"
+  }
+}
